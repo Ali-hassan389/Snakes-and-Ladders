@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Snakes and ladders.vcxproj" Id="2a9b8c3c-ffa4-46c4-9130-1846065321e0" />
+</Solution>
